@@ -95,7 +95,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png) 
+![Chart not found](master/charts/bar_graph.png) 
 
 
  Last Updated on 19/10/2021

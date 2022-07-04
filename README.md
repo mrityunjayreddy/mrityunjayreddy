@@ -4,7 +4,7 @@
 
 I'm [Rahul Dubey](https://github.com/LogiCule)
 
-Web Developer with flair for Logical Thinking.
+Web Developer with a flair for Logical Thinking.
 
 **💻 My Skills & Tools I use**
 

@@ -1,4 +1,4 @@
-[![banner](./images/seelay.svg)](https://github.com/LogiCule)
+[![banner](./images/logicule.svg)](https://github.com/LogiCule)
 
 **<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="10px"> Hey there Stranger!**
 

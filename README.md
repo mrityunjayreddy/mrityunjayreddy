@@ -95,7 +95,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](master/charts/bar_graph.png) 
+![Language Stats](./charts/bar_graph.png) 
 
 
  Last Updated on 19/10/2021

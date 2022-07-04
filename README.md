@@ -4,11 +4,11 @@
 
 I'm [Rahul Dubey](https://github.com/LogiCule)
 
-Creative Designer, Web Developer and a part time Digital Artist.
+Web Developer with flair for Logical Thinking.
 
 **💻 My Skills & Tools I use**
 
-[![banner](./images/skills&tools.svg)](https://seelay.in)
+[![banner](./images/skills&tools.svg)](https://leetcode.com/LogiCule/)
 
 <details>
   <summary>Stats</summary>
@@ -113,6 +113,4 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 </object>
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/seelay" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>

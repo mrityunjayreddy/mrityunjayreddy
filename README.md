@@ -16,37 +16,81 @@ Web Developer with a flair for Logical Thinking.
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 Abilities** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
-> 🏆 Problem Solving Mindset
+**🐱 My GitHub Data** 
+
+> 🏆 11 Contributions in the Year 2022
  > 
-> 📦 Observation & Analysis 
+> 📦 299 Bytes Used in GitHub's Storage 
  > 
-> 💼 Creativity
+> 🚫 Not Opted to Hire
  > 
-> 📜 Mentoring
+> 📜 8 Public Repositories 
  > 
-> 🔑 Resourceful 
+> 🔑 0 Private Repositories  
  > 
- 
-** Professional Skills 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-💬 Data Structure  & Algorithms
-📊 Data Analytics 
-💻 OOPs
-📅 Responsive Web Design
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    8 commits      ██████████████████████░░░   88.89% 
+🌃 Evening    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
- 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      5 commits      ██████████████░░░░░░░░░░░   55.56% 
+Wednesday    4 commits      ███████████░░░░░░░░░░░░░░   44.44% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    25 hrs 11 mins      █████████████████████████   100.0%
+
+🔥 Editors: 
+Browser                  25 hrs 11 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Unknown Project          25 hrs 11 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  25 hrs 11 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
 **Timeline**
 
-![Language Stats](./charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/LogiCule/LogiCule/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 06/07/2022 20:26:44 UTC
 <!--END_SECTION:waka-->
 
 ---

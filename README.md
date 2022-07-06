@@ -99,7 +99,6 @@ CSS                      1 repo              ████░░░░░░░�
 
 **🎵 I'm Listening to**
 
-<!-- how to embed in your Github Readme -->
 
 <object data="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39" >
   

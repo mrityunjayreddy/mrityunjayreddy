@@ -101,16 +101,8 @@ CSS                      1 repo              ████░░░░░░░�
 
 <!-- how to embed in your Github Readme -->
 
-![now playing](https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39)
-
-<!-- or -->
-
-<img src="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39" />
-
-<!-- or -->
-
 <object data="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39" >
-
-  <img src="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39" />
+  
+<img src="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39&theme=dark" />
 
 </object>

@@ -1,8 +1,8 @@
-[![banner](./images/logicule.svg)](https://github.com/LogiCule)
+[![banner](./images/logicule.svg)](https://www.linkedin.com/in/rahul-dubey-707b4452/)
 
 **Hey there Stranger!**
 
-I'm [Rahul Dubey](https://github.com/LogiCule)
+I'm [Rahul Dubey](https://www.linkedin.com/in/rahul-dubey-707b4452/)
 
 Web Developer with a flair for Logical Thinking.
 

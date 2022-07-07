@@ -18,13 +18,13 @@ Web Developer with a flair for Logical Thinking.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 🏆 12 Contributions in the Year 2022
  > 
-> 📦 299 Bytes Used in GitHub's Storage 
+> 📦 300 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,8 +36,8 @@ Web Developer with a flair for Logical Thinking.
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    8 commits      ██████████████████████░░░   88.89% 
-🌃 Evening    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    9 commits      ██████████████████████░░░   90.0% 
+🌃 Evening    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -45,9 +45,9 @@ Web Developer with a flair for Logical Thinking.
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      5 commits      ██████████████░░░░░░░░░░░   55.56% 
-Wednesday    4 commits      ███████████░░░░░░░░░░░░░░   44.44% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      5 commits      ████████████░░░░░░░░░░░░░   50.0% 
+Wednesday    4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Thursday     1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
@@ -90,7 +90,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LogiCule/LogiCule/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/07/2022 20:26:44 UTC
+ Last Updated on 07/07/2022 19:01:36 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -2,13 +2,13 @@
 
 **Hey there Stranger!**
 
-I'm [Rahul Dubey](https://www.linkedin.com/in/rahul-dubey-707b4452/)
+I'm [Mrityunjay Reddy](https://www.linkedin.com/in/mrityunjayreddy/)
 
 Web Developer with a flair for Logical Thinking.
 
 **💻 My Skills & Tools I use**
 
-[![banner](./images/skills&tools.svg)](https://leetcode.com/LogiCule/)
+[![banner](./images/skills&tools.svg)](https://leetcode.com/mrityunjayreddy/)
 
 <details>
   <summary>Stats</summary>

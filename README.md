@@ -1,4 +1,4 @@
-[![banner](./images/logicule.svg)](https://www.linkedin.com/in/rahul-dubey-707b4452/)
+[![banner](https://tenor.com/view/coding-gif-25183725)](https://www.linkedin.com/in/mrityunjayreddy/)
 
 **Hey there Stranger!**
 
